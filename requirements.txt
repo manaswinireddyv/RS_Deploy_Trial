@@ -10,3 +10,4 @@ langchain_mcp_adapters
 wikipedia
 duckduckgo_search
 ddgs
+langchain-chroma
